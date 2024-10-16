@@ -1,4 +1,5 @@
-# 10Xtober: Road to Hacktoberfest
+![hacktoberfest](https://github.com/user-attachments/assets/30b5edf1-3f5a-4698-b3d7-e4f0fd35a1fa)
+<h1 align='center'> 10Xtober: Road to Hacktoberfest </h1>
 
 Welcome to **Hacktoberfest**, a month-long celebration of open-source contributions, where developers worldwide come together to contribute to various projects, learn new skills, and make meaningful connections.
 
