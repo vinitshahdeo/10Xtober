@@ -6,7 +6,9 @@ This guide is here to help you kickstart your journey into the open-source world
 
 ## Meet Your Instructor
 
-Hi! I’m **Vinit Shahdeo**, a GitHub Star from India and a Senior Backend Engineer at Novo. I’m passionate about helping developers, especially beginners, dive into the open-source world.
+Hi! I’m **Vinit Shahdeo**, a [GitHub Star](https://stars.github.com/profiles/vinitshahdeo/) from India and a **Senior Backend Engineer** at Novo. I’m passionate about helping developers, especially beginners, dive into the open-source world. Read my [open-source journey](https://vinitshahdeo.dev/milepost-from-a-github-user-to-a-github-star).
+
+[![GitHub Star - Vinit Shahdeo](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_vinitshahdeo-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/vinitshahdeo/) 
 
 ## Why Open Source?
 
@@ -55,7 +57,13 @@ Once you find an issue to work on:
 
 ## Stay Active on GitHub
 
-Maintaining a streak on GitHub can be as exciting as maintaining one on Snapchat! Keep contributing to stay active in the community.
+Maintaining a streak on GitHub can be as exciting as maintaining one on Snapchat! Keep contributing to stay active in the community. [Read more](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/).
+
+## Let's connect!
+
+Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/Vinit_Shahdeo) and [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
 
 ## Happy Open Sourcing!
 
